@@ -1,7 +1,7 @@
 # Hospital-Management-System-In-PHP
 This is a PHP project based on HMS ( Hospital Management System )
 # Home Page
-![image](https://user-images.githubusercontent.com/62894946/189539888-40494840-ba97-4d53-8816-9631a6105710.png)
+![image](https://user-images.githubusercontent.com/62894946/189540446-c32341d2-d65c-4846-bfe5-aee6a745b3c0.png)
 
 ## Admin Dashboard
 ![image](https://user-images.githubusercontent.com/62894946/189539940-7756c37f-e261-4b27-aef2-ff6e0cf9365c.png)
